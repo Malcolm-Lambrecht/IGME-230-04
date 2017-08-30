@@ -1,0 +1,3 @@
+https://people.rit.edu/jml1769/230/error            not an error page
+https://people.rit.edu/jml1769/230/error/qq         404 error page
+https://people.rit.edu/jml1769/230/auth             authentication page
